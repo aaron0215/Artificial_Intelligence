@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-CS540 Course Projects
+CS540 2017Spring Course Projects
